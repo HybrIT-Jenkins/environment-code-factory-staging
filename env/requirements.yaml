@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.19
 - name: hybrit-app-generic-env-config
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
+  version: 0.0.5
 - name: redis-db
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7

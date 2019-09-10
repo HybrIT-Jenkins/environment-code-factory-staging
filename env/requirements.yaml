@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: hybr-eat
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.21
+  version: 0.0.22
 - name: hybrit-app-generic-env-config
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
